@@ -14,15 +14,17 @@ DB_PORT="${POSTGRES_PORT:-5432}"
 DB_HOST="${POSTGRES_HOST:-localhost}"
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SCHEMA_FILE="${SCRIPT_DIR}/schema_auth.sql"
+SCHEMA_AUTH="${SCRIPT_DIR}/schema_auth.sql"
+SCHEMA_ONBOARDING="${SCRIPT_DIR}/schema_onboarding.sql"
 
 echo "=========================================================="
-echo "🛡️  ComplianceTracker - Auth Database Setup"
+echo "🛡️  ComplianceTracker - Database Setup"
 echo "=========================================================="
-echo "Host:     ${DB_HOST}:${DB_PORT}"
-echo "User:     ${DB_USER}"
-echo "Database: ${DB_NAME}"
-echo "Schema:   ${SCHEMA_FILE}"
+echo "Host:       ${DB_HOST}:${DB_PORT}"
+echo "User:       ${DB_USER}"
+echo "Database:   ${DB_NAME}"
+echo "Auth Schema:       ${SCHEMA_AUTH}"
+echo "Onboarding Schema: ${SCHEMA_ONBOARDING}"
 echo "----------------------------------------------------------"
 
 # Check if psql is available
@@ -44,10 +46,14 @@ fi
 
 # Run the authentication schema script
 echo "Running authentication schema..."
-psql -h "${DB_HOST}" -p "${DB_PORT}" -U "${DB_USER}" -d "${DB_NAME}" -f "${SCHEMA_FILE}"
+psql -h "${DB_HOST}" -p "${DB_PORT}" -U "${DB_USER}" -d "${DB_NAME}" -f "${SCHEMA_AUTH}"
+
+# Run the onboarding schema script
+echo "Running onboarding schema..."
+psql -h "${DB_HOST}" -p "${DB_PORT}" -U "${DB_USER}" -d "${DB_NAME}" -f "${SCHEMA_ONBOARDING}"
 
 echo "----------------------------------------------------------"
-echo "🎉 Authentication Database Setup Complete!"
+echo "🎉 Database Setup Complete!"
 echo "Seed accounts created:"
 echo " - admin@compliancetracker.com (Role: admin)"
 echo " - demo@sme.com (Role: manager)"

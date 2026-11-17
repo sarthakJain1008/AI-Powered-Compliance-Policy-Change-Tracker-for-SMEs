@@ -28,10 +28,14 @@ export default function DashboardPage() {
   const { user, isLoading, isAuthenticated, logout } = useAuth()
 
   useEffect(() => {
-    if (!isLoading && !isAuthenticated) {
-      router.replace('/login')
+    if (!isLoading) {
+      if (!isAuthenticated) {
+        router.replace('/login')
+      } else if (user && user.is_onboarded === false) {
+        router.replace('/onboarding')
+      }
     }
-  }, [isLoading, isAuthenticated, router])
+  }, [isLoading, isAuthenticated, user, router])
 
   if (isLoading || !user) {
     return (

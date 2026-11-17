@@ -48,6 +48,7 @@ class User(Base):
     # Status flags
     is_active: Mapped[bool] = mapped_column(nullable=False, server_default=text("true"))
     is_verified: Mapped[bool] = mapped_column(nullable=False, server_default=text("false"))
+    is_onboarded: Mapped[bool] = mapped_column(nullable=False, server_default=text("false"))
 
     # Timestamps (maintained by the database, not the ORM)
     created_at: Mapped[datetime] = mapped_column(

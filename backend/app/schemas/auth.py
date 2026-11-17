@@ -113,6 +113,7 @@ class UserResponse(BaseModel):
     role: str
     is_active: bool
     is_verified: bool
+    is_onboarded: bool = False
     created_at: datetime
 
 

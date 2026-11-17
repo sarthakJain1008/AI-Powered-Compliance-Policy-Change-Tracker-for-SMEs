@@ -29,6 +29,7 @@ import Cookies from 'js-cookie'
 import { Input } from '@/components/ui/Input'
 import { Button } from '@/components/ui/Button'
 import { authApi } from '@/lib/api'
+import { onboardingApi } from '@/lib/onboardingApi'
 import { loginSchema, LoginFormValues } from '@/lib/validations'
 
 // ─── Feature bullets shown on the left decorative panel ──────────────────────
@@ -88,7 +89,17 @@ export default function LoginPage() {
         expires: 7,
       })
 
-      router.push('/dashboard')
+      // Direct to onboarding if first time, else dashboard
+      try {
+        const onboardingStatus = await onboardingApi.getStatus()
+        if (onboardingStatus.is_onboarded) {
+          router.push('/dashboard')
+        } else {
+          router.push('/onboarding')
+        }
+      } catch {
+        router.push('/onboarding')
+      }
     } catch (err: unknown) {
       const message =
         err instanceof Error
