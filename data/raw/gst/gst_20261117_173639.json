@@ -1,0 +1,26 @@
+[
+  {
+    "doc_id": "0dfa370c0d97bdcb",
+    "title": "How do I register with GST?",
+    "authority": "CBIC / GST Council",
+    "jurisdiction": "India",
+    "instrument_type": "Notification",
+    "instrument_number": "",
+    "issued_on": "",
+    "effective_on": "",
+    "status": "in_force",
+    "parent_instrument": "",
+    "amends_or_repeals": "",
+    "full_text": "",
+    "source_url": "https://www.gst.gov.in/help/enrollmentwithgst",
+    "source_hash": "0dfa370c0d97bdcb",
+    "version": "1.0",
+    "topics": [
+      "tax",
+      "gst"
+    ],
+    "is_authoritative": true,
+    "crawled_at": "2026-11-17T17:36:39.912433",
+    "needs_human_review": false
+  }
+]

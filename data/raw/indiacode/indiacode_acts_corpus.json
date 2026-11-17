@@ -1,0 +1,926 @@
+[
+  {
+    "doc_id": "indiacode_2_418_2013",
+    "title": "The Companies Act, 2013",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2013",
+    "effective_on": "2013",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/418",
+    "topics": [
+      "corporate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172149",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_438_2008",
+    "title": "The Limited Liability Partnership Act, 2008",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2008",
+    "effective_on": "2008",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/438",
+    "topics": [
+      "corporate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172183",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2016",
+    "title": "The Insolvency and Bankruptcy Code, 2016",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2016",
+    "effective_on": "2016",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "corporate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172186",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2002",
+    "title": "The Competition Act, 2002",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2002",
+    "effective_on": "2002",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "corporate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172187",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1467_2006",
+    "title": "The Micro, Small and Medium Enterprises Development Act, 2006",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2006",
+    "effective_on": "2006",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1467",
+    "topics": [
+      "msme"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172189",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1958_2017",
+    "title": "The Central Goods and Services Tax Act, 2017",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2017",
+    "effective_on": "2017",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1958",
+    "topics": [
+      "tax"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172222",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1934_1961",
+    "title": "The Income Tax Act, 1961",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1961",
+    "effective_on": "1961",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1934",
+    "topics": [
+      "tax"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172224",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1933_1962",
+    "title": "The Customs Act, 1962",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1962",
+    "effective_on": "1962",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1933",
+    "topics": [
+      "tax"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172225",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1944_1999",
+    "title": "The Foreign Exchange Management Act, 1999",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1999",
+    "effective_on": "1999",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1944",
+    "topics": [
+      "finance",
+      "trade"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172227",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1554_1952",
+    "title": "The Employees Provident Fund and Miscellaneous Provisions Act, 1952",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1952",
+    "effective_on": "1952",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1554",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172228",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1555_1948",
+    "title": "The Employees State Insurance Act, 1948",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1948",
+    "effective_on": "1948",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1555",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172229",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_356_1948",
+    "title": "The Minimum Wages Act, 1948",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1948",
+    "effective_on": "1948",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/356",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172231",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1558_1972",
+    "title": "The Payment of Gratuity Act, 1972",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1972",
+    "effective_on": "1972",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1558",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172233",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1559_1965",
+    "title": "The Payment of Bonus Act, 1965",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1965",
+    "effective_on": "1965",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1559",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172235",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1560_1961",
+    "title": "The Maternity Benefit Act, 1961",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1961",
+    "effective_on": "1961",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1560",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172236",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1562_1948",
+    "title": "The Factories Act, 1948",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1948",
+    "effective_on": "1948",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1562",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172238",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_357_1970",
+    "title": "The Contract Labour (Regulation and Abolition) Act, 1970",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1970",
+    "effective_on": "1970",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/357",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172240",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_14_2013",
+    "title": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2013",
+    "effective_on": "2013",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/14",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172241",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2019",
+    "title": "The Code on Wages, 2019",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2019",
+    "effective_on": "2019",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172242",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2020",
+    "title": "The Industrial Relations Code, 2020",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2020",
+    "effective_on": "2020",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172244",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2020",
+    "title": "The Code on Social Security, 2020",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2020",
+    "effective_on": "2020",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172245",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2020",
+    "title": "The Occupational Safety, Health and Working Conditions Code, 2020",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2020",
+    "effective_on": "2020",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "employment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172246",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_18_2023",
+    "title": "The Digital Personal Data Protection Act, 2023",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2023",
+    "effective_on": "2023",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/18",
+    "topics": [
+      "data_privacy"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172247",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_1967_2000",
+    "title": "The Information Technology Act, 2000",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2000",
+    "effective_on": "2000",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/1967",
+    "topics": [
+      "data_privacy"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172249",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2006",
+    "title": "The Food Safety and Standards Act, 2006",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2006",
+    "effective_on": "2006",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "food_safety"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172250",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2016",
+    "title": "The Real Estate (Regulation and Development) Act, 2016",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2016",
+    "effective_on": "2016",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "real_estate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172251",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1986",
+    "title": "The Environment Protection Act, 1986",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1986",
+    "effective_on": "1986",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "environment"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172252",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1970",
+    "title": "The Patents Act, 1970",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1970",
+    "effective_on": "1970",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "ip"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172254",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1999",
+    "title": "The Trade Marks Act, 1999",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1999",
+    "effective_on": "1999",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "ip"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172255",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1957",
+    "title": "The Copyright Act, 1957",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1957",
+    "effective_on": "1957",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "ip"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172256",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1872",
+    "title": "The Indian Contract Act, 1872",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1872",
+    "effective_on": "1872",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "contracts"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172257",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1930",
+    "title": "The Sale of Goods Act, 1930",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1930",
+    "effective_on": "1930",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "contracts"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172258",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2019",
+    "title": "The Consumer Protection Act, 2019",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2019",
+    "effective_on": "2019",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "consumer"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172260",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2007",
+    "title": "The Payment and Settlement Systems Act, 2007",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2007",
+    "effective_on": "2007",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance",
+      "fintech"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172261",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1881",
+    "title": "The Negotiable Instruments Act, 1881",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1881",
+    "effective_on": "1881",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172263",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1996",
+    "title": "The Arbitration and Conciliation Act, 1996",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1996",
+    "effective_on": "1996",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "disputes"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172265",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1963",
+    "title": "The Specific Relief Act, 1963",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1963",
+    "effective_on": "1963",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "disputes"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172266",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1899",
+    "title": "The Indian Stamp Act, 1899",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1899",
+    "effective_on": "1899",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "tax"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172267",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2017",
+    "title": "The Goods and Services Tax (Compensation to States) Act, 2017",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2017",
+    "effective_on": "2017",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "tax"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172268",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2017",
+    "title": "The Integrated Goods and Services Tax Act, 2017",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2017",
+    "effective_on": "2017",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "tax"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172269",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2002",
+    "title": "The Prevention of Money-Laundering Act, 2002",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2002",
+    "effective_on": "2002",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance",
+      "aml"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172271",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_2016",
+    "title": "The Benami Transactions (Prohibition) Amendment Act, 2016",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "2016",
+    "effective_on": "2016",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172272",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1992",
+    "title": "The Securities and Exchange Board of India Act, 1992",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1992",
+    "effective_on": "1992",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance",
+      "securities"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172273",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1934",
+    "title": "The Reserve Bank of India Act, 1934",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1934",
+    "effective_on": "1934",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance",
+      "banking"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172274",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1949",
+    "title": "The Banking Regulation Act, 1949",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1949",
+    "effective_on": "1949",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "finance",
+      "banking"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172277",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1997",
+    "title": "The Telecom Regulatory Authority of India Act, 1997",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1997",
+    "effective_on": "1997",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "telecom"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172278",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1940",
+    "title": "The Drugs and Cosmetics Act, 1940",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1940",
+    "effective_on": "1940",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "health"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172279",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1948",
+    "title": "The Pharmacy Act, 1948",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1948",
+    "effective_on": "1948",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "health"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172281",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1932",
+    "title": "The Indian Partnership Act, 1932",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1932",
+    "effective_on": "1932",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "corporate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172282",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1882",
+    "title": "The Transfer of Property Act, 1882",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1882",
+    "effective_on": "1882",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "real_estate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172284",
+    "source_method": "curated_known_acts"
+  },
+  {
+    "doc_id": "indiacode_2_370_1908",
+    "title": "The Registration Act, 1908",
+    "authority": "Legislative Department, Ministry of Law and Justice",
+    "jurisdiction": "India",
+    "instrument_type": "Act",
+    "issued_on": "1908",
+    "effective_on": "1908",
+    "status": "in_force",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2/370",
+    "topics": [
+      "real_estate"
+    ],
+    "is_authoritative": true,
+    "is_business_critical": true,
+    "crawled_at": "2026-11-17T17:37:15.172285",
+    "source_method": "curated_known_acts"
+  }
+]

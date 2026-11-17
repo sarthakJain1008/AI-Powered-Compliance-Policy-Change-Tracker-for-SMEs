@@ -1,0 +1,183 @@
+[
+  {
+    "jurisdiction_id": 1,
+    "name": "India",
+    "type": "country",
+    "parent_jurisdiction_id": null
+  },
+  {
+    "jurisdiction_id": 2,
+    "name": "Maharashtra",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 3,
+    "name": "Karnataka",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 4,
+    "name": "Delhi",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 5,
+    "name": "Tamil Nadu",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 6,
+    "name": "Gujarat",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 7,
+    "name": "Telangana",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 8,
+    "name": "West Bengal",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 9,
+    "name": "Rajasthan",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 10,
+    "name": "Uttar Pradesh",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 11,
+    "name": "Haryana",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 12,
+    "name": "Punjab",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 13,
+    "name": "Kerala",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 14,
+    "name": "Andhra Pradesh",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 15,
+    "name": "Madhya Pradesh",
+    "type": "state",
+    "parent_jurisdiction_id": 1
+  },
+  {
+    "jurisdiction_id": 20,
+    "name": "MCA",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Ministry of Corporate Affairs"
+  },
+  {
+    "jurisdiction_id": 21,
+    "name": "RBI",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Reserve Bank of India"
+  },
+  {
+    "jurisdiction_id": 22,
+    "name": "EPFO",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Employees Provident Fund Organisation"
+  },
+  {
+    "jurisdiction_id": 23,
+    "name": "ESIC",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Employees State Insurance Corporation"
+  },
+  {
+    "jurisdiction_id": 24,
+    "name": "FSSAI",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Food Safety and Standards Authority of India"
+  },
+  {
+    "jurisdiction_id": 25,
+    "name": "SEBI",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Securities and Exchange Board of India"
+  },
+  {
+    "jurisdiction_id": 26,
+    "name": "TRAI",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Telecom Regulatory Authority of India"
+  },
+  {
+    "jurisdiction_id": 27,
+    "name": "DPIIT",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Department for Promotion of Industry and Internal Trade"
+  },
+  {
+    "jurisdiction_id": 28,
+    "name": "GSTN",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Goods and Services Tax Network"
+  },
+  {
+    "jurisdiction_id": 29,
+    "name": "MeitY",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Ministry of Electronics and Information Technology"
+  },
+  {
+    "jurisdiction_id": 30,
+    "name": "Labour Ministry",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Ministry of Labour and Employment"
+  },
+  {
+    "jurisdiction_id": 31,
+    "name": "Income Tax Department",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Central Board of Direct Taxes"
+  },
+  {
+    "jurisdiction_id": 32,
+    "name": "CBIC",
+    "type": "regulator",
+    "parent_jurisdiction_id": 1,
+    "full_name": "Central Board of Indirect Taxes and Customs"
+  }
+]

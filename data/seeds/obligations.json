@@ -1,0 +1,452 @@
+[
+  {
+    "obligation_id": 1,
+    "regulation_id": 1,
+    "description": "File Annual Return (Form MGT-7) with MCA",
+    "frequency": "annual",
+    "default_deadline_offset_days": 60,
+    "responsible_role": "Company Secretary",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 2,
+    "regulation_id": 1,
+    "description": "File Financial Statements (Form AOC-4) with MCA",
+    "frequency": "annual",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 3,
+    "regulation_id": 1,
+    "description": "Conduct Annual General Meeting (AGM)",
+    "frequency": "annual",
+    "default_deadline_offset_days": 180,
+    "responsible_role": "Director",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 4,
+    "regulation_id": 1,
+    "description": "File DIR-3 KYC for all directors annually",
+    "frequency": "annual",
+    "default_deadline_offset_days": 150,
+    "responsible_role": "Company Secretary",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 5,
+    "regulation_id": 1,
+    "description": "Maintain statutory registers (members, directors)",
+    "frequency": "ad_hoc",
+    "default_deadline_offset_days": null,
+    "responsible_role": "Company Secretary",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 10,
+    "regulation_id": 10,
+    "description": "File GSTR-1 (Outward Supplies) monthly",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 11,
+    "responsible_role": "Finance Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 11,
+    "regulation_id": 10,
+    "description": "File GSTR-3B (Summary Return) monthly",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 20,
+    "responsible_role": "Finance Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 12,
+    "regulation_id": 10,
+    "description": "File GSTR-9 (Annual GST Return)",
+    "frequency": "annual",
+    "default_deadline_offset_days": 274,
+    "responsible_role": "Finance Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 13,
+    "regulation_id": 10,
+    "description": "Reconcile Input Tax Credit (ITC) in GSTR-2B monthly",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 14,
+    "responsible_role": "Finance Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 14,
+    "regulation_id": 10,
+    "description": "File GST Annual Return and Audit (if turnover > 2Cr)",
+    "frequency": "annual",
+    "default_deadline_offset_days": 274,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": 20000000
+  },
+  {
+    "obligation_id": 20,
+    "regulation_id": 11,
+    "description": "Pay Advance Tax (Q1) - 15% of estimated tax",
+    "frequency": "quarterly",
+    "default_deadline_offset_days": 76,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 21,
+    "regulation_id": 11,
+    "description": "Pay Advance Tax (Q2) - 45% of estimated tax",
+    "frequency": "quarterly",
+    "default_deadline_offset_days": 168,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 22,
+    "regulation_id": 11,
+    "description": "Pay Advance Tax (Q3) - 75% of estimated tax",
+    "frequency": "quarterly",
+    "default_deadline_offset_days": 259,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 23,
+    "regulation_id": 11,
+    "description": "Pay Advance Tax (Q4) - 100% of estimated tax",
+    "frequency": "quarterly",
+    "default_deadline_offset_days": 349,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 24,
+    "regulation_id": 12,
+    "description": "Deposit TDS by 7th of each month",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 7,
+    "responsible_role": "Finance Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 25,
+    "regulation_id": 12,
+    "description": "File TDS Return (Form 26Q) quarterly",
+    "frequency": "quarterly",
+    "default_deadline_offset_days": 15,
+    "responsible_role": "Finance Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 26,
+    "regulation_id": 11,
+    "description": "File Income Tax Return (ITR) annually",
+    "frequency": "annual",
+    "default_deadline_offset_days": 213,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 27,
+    "regulation_id": 11,
+    "description": "Issue Form 16 (TDS Certificate) to employees by June 15",
+    "frequency": "annual",
+    "default_deadline_offset_days": 76,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 1,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 30,
+    "regulation_id": 20,
+    "description": "Deposit EPF contribution by 15th of each month",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 15,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 20,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 31,
+    "regulation_id": 20,
+    "description": "File ECR (Electronic Challan cum Return) monthly",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 15,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 20,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 32,
+    "regulation_id": 20,
+    "description": "Register under EPF Act when 20th employee joins",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 20,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 35,
+    "regulation_id": 21,
+    "description": "Deposit ESI contribution by 15th of each month",
+    "frequency": "monthly",
+    "default_deadline_offset_days": 15,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 36,
+    "regulation_id": 21,
+    "description": "File ESI Returns half-yearly (May 11 and Nov 11)",
+    "frequency": "quarterly",
+    "default_deadline_offset_days": 11,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 37,
+    "regulation_id": 21,
+    "description": "Register under ESI Act when 10th employee joins",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 15,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 40,
+    "regulation_id": 23,
+    "description": "Pay Gratuity within 30 days of employee's last day",
+    "frequency": "ad_hoc",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 41,
+    "regulation_id": 24,
+    "description": "Pay Annual Bonus before Diwali (by Oct 31)",
+    "frequency": "annual",
+    "default_deadline_offset_days": 213,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 20,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 42,
+    "regulation_id": 22,
+    "description": "Review and update salary to meet state minimum wages",
+    "frequency": "annual",
+    "default_deadline_offset_days": 90,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 1,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 43,
+    "regulation_id": 25,
+    "description": "Pay Maternity Benefit for 26 weeks (female employees)",
+    "frequency": "ad_hoc",
+    "default_deadline_offset_days": null,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 44,
+    "regulation_id": 25,
+    "description": "Display Maternity Benefit Act summary at workplace",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 50,
+    "regulation_id": 28,
+    "description": "Constitute Internal Complaints Committee (ICC)",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 51,
+    "regulation_id": 28,
+    "description": "File Annual POSH Report to District Officer",
+    "frequency": "annual",
+    "default_deadline_offset_days": 31,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 52,
+    "regulation_id": 28,
+    "description": "Conduct POSH Awareness Training for all employees",
+    "frequency": "annual",
+    "default_deadline_offset_days": 90,
+    "responsible_role": "HR Manager",
+    "applies_to_min_employees": 10,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 60,
+    "regulation_id": 40,
+    "description": "Publish Privacy Notice / Privacy Policy on website",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 90,
+    "responsible_role": "CTO/Legal",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 61,
+    "regulation_id": 40,
+    "description": "Obtain explicit consent before collecting personal data",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 90,
+    "responsible_role": "CTO/Legal",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 62,
+    "regulation_id": 40,
+    "description": "Appoint Data Protection Officer (if significant data fiduciary)",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 180,
+    "responsible_role": "CEO/Legal",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 63,
+    "regulation_id": 40,
+    "description": "Implement data breach notification process (72 hours)",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 90,
+    "responsible_role": "CTO/Legal",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 70,
+    "regulation_id": 60,
+    "description": "Obtain FSSAI License or Registration",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "Operations Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 71,
+    "regulation_id": 60,
+    "description": "Renew FSSAI License annually",
+    "frequency": "annual",
+    "default_deadline_offset_days": -30,
+    "responsible_role": "Operations Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 72,
+    "regulation_id": 60,
+    "description": "Maintain hygiene and food safety standards (HACCP)",
+    "frequency": "ad_hoc",
+    "default_deadline_offset_days": null,
+    "responsible_role": "Operations Manager",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 80,
+    "regulation_id": 100,
+    "description": "Register under Shops & Establishments Act in Karnataka",
+    "frequency": "one_time",
+    "default_deadline_offset_days": 30,
+    "responsible_role": "Admin",
+    "applies_to_min_employees": 1,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 81,
+    "regulation_id": 100,
+    "description": "Renew Shops & Establishments registration annually",
+    "frequency": "annual",
+    "default_deadline_offset_days": -30,
+    "responsible_role": "Admin",
+    "applies_to_min_employees": 1,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 90,
+    "regulation_id": 91,
+    "description": "File Trademark application before using brand name",
+    "frequency": "one_time",
+    "default_deadline_offset_days": null,
+    "responsible_role": "Legal/Founder",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 91,
+    "regulation_id": 90,
+    "description": "File Patent application for inventions",
+    "frequency": "one_time",
+    "default_deadline_offset_days": null,
+    "responsible_role": "Legal/CTO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 100,
+    "regulation_id": 52,
+    "description": "Repatriate foreign currency receipts within 9 months",
+    "frequency": "ad_hoc",
+    "default_deadline_offset_days": 270,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  },
+  {
+    "obligation_id": 101,
+    "regulation_id": 52,
+    "description": "File Annual Performance Report (APR) for overseas JV",
+    "frequency": "annual",
+    "default_deadline_offset_days": 183,
+    "responsible_role": "CFO",
+    "applies_to_min_employees": null,
+    "applies_to_min_turnover": null
+  }
+]

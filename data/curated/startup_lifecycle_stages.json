@@ -1,0 +1,209 @@
+{
+  "stages": [
+    {
+      "stage_id": 1,
+      "stage_name": "Idea & Pre-Incorporation",
+      "statutes": [
+        "Indian Contract Act, 1872",
+        "Patents Act, 1970",
+        "Copyright Act, 1957"
+      ],
+      "key_actions": [
+        {
+          "action": "Founders Agreement",
+          "desc": "Equity split, vesting schedule (usually 4 years with 1 year cliff), IP assignment, non-compete.",
+          "mandatory": true
+        },
+        {
+          "action": "Non-Disclosure Agreement (NDA)",
+          "desc": "For early discussions with potential hires, vendors, advisors.",
+          "mandatory": false
+        },
+        {
+          "action": "Prior Art Search / Patentability Analysis",
+          "desc": "Search Indian Patent Office (InPASS), Google Patents, WIPO prior to public disclosure.",
+          "mandatory": false
+        },
+        {
+          "action": "Provisional Patent Application",
+          "desc": "File Form 1 & Form 2 (Provisional Specification) to lock priority date before launching product.",
+          "mandatory": false
+        }
+      ]
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Entity Incorporation (MCA21 Portal)",
+      "statutes": [
+        "Companies Act, 2013",
+        "Limited Liability Partnership Act, 2008"
+      ],
+      "key_actions": [
+        {
+          "action": "Director Identification Number (DIN) & DSC",
+          "desc": "Class 3 Digital Signature Certificate for directors.",
+          "form": "DSC Application",
+          "mandatory": true
+        },
+        {
+          "action": "Name Reservation",
+          "desc": "Reserve company name through RUN (Reserve Unique Name) or SPICe+ Part A.",
+          "form": "SPICe+ Part A",
+          "mandatory": true
+        },
+        {
+          "action": "SPICe+ Part B (Integrated Incorporation)",
+          "desc": "Simultaneous incorporation, PAN, TAN, EPFO, ESIC, Professional Tax (Maharashtra/Karnataka), Bank Account, and optional GSTIN.",
+          "form": "INC-32",
+          "mandatory": true
+        },
+        {
+          "action": "eMOA & eAOA",
+          "desc": "Electronic Memorandum of Association and Articles of Association.",
+          "form": "INC-33 & INC-34",
+          "mandatory": true
+        },
+        {
+          "action": "AGILE-PRO-S",
+          "desc": "Goods and Services Tax Identification Number, EPFO, ESIC, Professional Tax, Bank Account.",
+          "form": "INC-35",
+          "mandatory": true
+        },
+        {
+          "action": "Declaration of Commencement of Business",
+          "desc": "File within 180 days of incorporation after subscribers deposit share capital. Mandatory before commencing business operations or borrowing.",
+          "form": "INC-20A",
+          "timeline": "Within 180 days",
+          "mandatory": true,
+          "penalty": "₹50,000 for company, ₹1,000/day for directors"
+        }
+      ]
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Post-Incorporation Registrations & Startup Recognition",
+      "statutes": [
+        "DPIIT Startup India Guidelines",
+        "MSME Development Act, 2006",
+        "State Shops and Establishments Acts"
+      ],
+      "key_actions": [
+        {
+          "action": "DPIIT Startup Recognition",
+          "desc": "Registered on Startup India portal. Criteria: private limited/LLP, age <= 10 years, turnover <= ₹100 Cr, innovation/scalability.",
+          "benefits": [
+            "80% rebate on patent filing fees",
+            "50% rebate on trademark fees",
+            "Self-certification under 6 labour laws for 3-5 years",
+            "Eligibility for Section 80-IAC tax holiday (3 yrs)",
+            "Angel tax exemption Section 56(2)(viib)"
+          ],
+          "mandatory": false
+        },
+        {
+          "action": "Udyam (MSME) Registration",
+          "desc": "Free portal for Micro/Small/Medium classification. Subsidies on patent filing, priority lending, 45-day payment protection under MSMED Act Section 15.",
+          "mandatory": false
+        },
+        {
+          "action": "Shops and Commercial Establishments Registration",
+          "desc": "State-specific registration with the Labour Department within 30 days of opening premises.",
+          "mandatory": true,
+          "timeline": "Within 30 days"
+        },
+        {
+          "action": "Professional Tax Registration (P-Tax)",
+          "desc": "State-specific registration for employer (PTRC) and enrollment for employees (PTEC).",
+          "mandatory": true
+        }
+      ]
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "Intellectual Property Protection",
+      "statutes": [
+        "Patents Act, 1970",
+        "Trade Marks Act, 1999",
+        "Copyright Act, 1957",
+        "Designs Act, 2000"
+      ],
+      "key_actions": [
+        {
+          "action": "Trademark Application (Brand / Logo / Name)",
+          "desc": "File Form TM-A across relevant classes (e.g. Class 9 for software, Class 42 for SaaS, Class 35 for e-commerce, Class 36 for fintech).",
+          "fees": "₹4,500 for Startups/MSMEs vs ₹9,000 for others",
+          "mandatory": true
+        },
+        {
+          "action": "Complete Patent Specification",
+          "desc": "File within 12 months of Provisional Application (Form 2). Includes claims, background, detailed description, drawings.",
+          "timeline": "12 months from provisional",
+          "mandatory": false
+        },
+        {
+          "action": "Expedited Examination (Form 18A)",
+          "desc": "Available for DPIIT-recognized startups. Reduces patent grant timeline from 4-5 years to 6-12 months!",
+          "form": "Form 18A",
+          "mandatory": false
+        },
+        {
+          "action": "Copyright for Software Code / UI",
+          "desc": "Register source code and object code as literary work under the Indian Copyright Office.",
+          "mandatory": false
+        }
+      ]
+    },
+    {
+      "stage_id": 5,
+      "stage_name": "Hiring & Employment Thresholds",
+      "statutes": [
+        "EPF Act, 1952",
+        "ESI Act, 1948",
+        "Payment of Gratuity Act, 1972",
+        "POSH Act, 2013",
+        "Maternity Benefit Act, 1961"
+      ],
+      "key_actions": [
+        {
+          "threshold": "1+ Employees",
+          "obligation": "Employment Agreements with IP assignment and confidentiality; State Shops Act registration; Minimum wage compliance."
+        },
+        {
+          "threshold": "10+ Employees",
+          "obligation": "Mandatory POSH Internal Complaints Committee (ICC) with external member; ESIC registration if gross wage <= ₹21,000/month; Gratuity liability accrual (payable after 5 yrs of continuous service)."
+        },
+        {
+          "threshold": "20+ Employees",
+          "obligation": "Mandatory EPFO registration (12% employer + 12% employee contribution); Payment of Bonus Act applicability (minimum 8.33% bonus)."
+        },
+        {
+          "threshold": "50+ Employees",
+          "obligation": "Mandatory creche facility provision under Maternity Benefit Act."
+        }
+      ]
+    },
+    {
+      "stage_id": 6,
+      "stage_name": "Ongoing Tax & Statutory Filings",
+      "statutes": [
+        "CGST Act, 2017",
+        "Income Tax Act, 1961",
+        "Companies Act, 2013"
+      ],
+      "key_actions": [
+        {
+          "cycle": "Monthly",
+          "filing": "GSTR-1 by 11th; GSTR-3B by 20th; TDS payment by 7th; PF & ESIC deposit by 15th."
+        },
+        {
+          "cycle": "Quarterly",
+          "filing": "TDS Return Form 26Q by 31st of following month; Advance Tax installments (15% Jun, 45% Sep, 75% Dec, 100% Mar)."
+        },
+        {
+          "cycle": "Annual",
+          "filing": "Statutory Financial Audit; AGM within 6 months of FY end; Form AOC-4 (Financials) within 30 days of AGM; Form MGT-7/7A (Annual Return) within 60 days of AGM; DIR-3 KYC by Sept 30; Income Tax Return (ITR-6) by Oct 31."
+        }
+      ]
+    }
+  ]
+}

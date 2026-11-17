@@ -1,0 +1,16 @@
+{
+  "mratanusarkar/Indian-Laws": {
+    "status": "SUCCESS",
+    "rows": {
+      "train": 34244
+    }
+  },
+  "kanoonhq/open-laws": {
+    "status": "FAILED",
+    "error": "An error occurred while generating the dataset"
+  },
+  "dotzcode/All_Indian_Acts_dataset_v2": {
+    "status": "FAILED",
+    "error": "Dataset 'dotzcode/All_Indian_Acts_dataset_v2' is a gated dataset on the Hub. You must be authenticated to access it."
+  }
+}

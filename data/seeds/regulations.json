@@ -1,0 +1,317 @@
+[
+  {
+    "regulation_id": 1,
+    "title": "Companies Act, 2013",
+    "short_name": "Companies Act 2013",
+    "jurisdiction_id": 20,
+    "status": "active",
+    "first_effective_date": "2014-04-01",
+    "category": "corporate"
+  },
+  {
+    "regulation_id": 2,
+    "title": "Limited Liability Partnership Act, 2008",
+    "short_name": "LLP Act 2008",
+    "jurisdiction_id": 20,
+    "status": "active",
+    "first_effective_date": "2009-03-31",
+    "category": "corporate"
+  },
+  {
+    "regulation_id": 3,
+    "title": "Insolvency and Bankruptcy Code, 2016",
+    "short_name": "IBC 2016",
+    "jurisdiction_id": 20,
+    "status": "active",
+    "first_effective_date": "2016-11-28",
+    "category": "corporate"
+  },
+  {
+    "regulation_id": 4,
+    "title": "MSME Development Act, 2006",
+    "short_name": "MSME Act 2006",
+    "jurisdiction_id": 1,
+    "status": "active",
+    "first_effective_date": "2006-10-02",
+    "category": "corporate"
+  },
+  {
+    "regulation_id": 10,
+    "title": "Central Goods and Services Tax Act, 2017",
+    "short_name": "CGST Act 2017",
+    "jurisdiction_id": 28,
+    "status": "active",
+    "first_effective_date": "2017-07-01",
+    "category": "tax"
+  },
+  {
+    "regulation_id": 11,
+    "title": "Income Tax Act, 1961",
+    "short_name": "Income Tax Act 1961",
+    "jurisdiction_id": 31,
+    "status": "active",
+    "first_effective_date": "1962-04-01",
+    "category": "tax"
+  },
+  {
+    "regulation_id": 12,
+    "title": "Tax Deducted at Source Rules (TDS)",
+    "short_name": "TDS Rules",
+    "jurisdiction_id": 31,
+    "status": "active",
+    "first_effective_date": "1962-04-01",
+    "category": "tax"
+  },
+  {
+    "regulation_id": 13,
+    "title": "Customs Act, 1962",
+    "short_name": "Customs Act 1962",
+    "jurisdiction_id": 32,
+    "status": "active",
+    "first_effective_date": "1963-02-01",
+    "category": "tax"
+  },
+  {
+    "regulation_id": 20,
+    "title": "Employees Provident Fund and Miscellaneous Provisions Act, 1952",
+    "short_name": "EPF Act 1952",
+    "jurisdiction_id": 22,
+    "status": "active",
+    "first_effective_date": "1952-03-04",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 21,
+    "title": "Employees State Insurance Act, 1948",
+    "short_name": "ESI Act 1948",
+    "jurisdiction_id": 23,
+    "status": "active",
+    "first_effective_date": "1948-04-19",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 22,
+    "title": "Minimum Wages Act, 1948",
+    "short_name": "Min Wages Act 1948",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "1948-03-15",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 23,
+    "title": "Payment of Gratuity Act, 1972",
+    "short_name": "Gratuity Act 1972",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "1972-09-16",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 24,
+    "title": "Payment of Bonus Act, 1965",
+    "short_name": "Bonus Act 1965",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "1965-09-25",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 25,
+    "title": "Maternity Benefit Act, 1961",
+    "short_name": "Maternity Act 1961",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "1961-12-12",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 26,
+    "title": "Factories Act, 1948",
+    "short_name": "Factories Act 1948",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "1948-09-23",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 27,
+    "title": "Contract Labour (Regulation and Abolition) Act, 1970",
+    "short_name": "Contract Labour Act 1970",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "1971-02-10",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 28,
+    "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "short_name": "POSH Act 2013",
+    "jurisdiction_id": 30,
+    "status": "active",
+    "first_effective_date": "2013-12-09",
+    "category": "labour"
+  },
+  {
+    "regulation_id": 29,
+    "title": "Code on Wages, 2019",
+    "short_name": "Wage Code 2019",
+    "jurisdiction_id": 30,
+    "status": "draft",
+    "first_effective_date": null,
+    "category": "labour"
+  },
+  {
+    "regulation_id": 30,
+    "title": "Industrial Relations Code, 2020",
+    "short_name": "IR Code 2020",
+    "jurisdiction_id": 30,
+    "status": "draft",
+    "first_effective_date": null,
+    "category": "labour"
+  },
+  {
+    "regulation_id": 40,
+    "title": "Digital Personal Data Protection Act, 2023",
+    "short_name": "DPDP Act 2023",
+    "jurisdiction_id": 29,
+    "status": "active",
+    "first_effective_date": "2023-08-11",
+    "category": "data_privacy"
+  },
+  {
+    "regulation_id": 41,
+    "title": "Information Technology Act, 2000",
+    "short_name": "IT Act 2000",
+    "jurisdiction_id": 29,
+    "status": "active",
+    "first_effective_date": "2000-06-09",
+    "category": "data_privacy"
+  },
+  {
+    "regulation_id": 42,
+    "title": "Information Technology (Amendment) Act, 2008",
+    "short_name": "IT Act 2008",
+    "jurisdiction_id": 29,
+    "status": "active",
+    "first_effective_date": "2009-02-05",
+    "category": "data_privacy"
+  },
+  {
+    "regulation_id": 50,
+    "title": "RBI Master Direction - Non-Banking Financial Companies",
+    "short_name": "NBFC Master Direction",
+    "jurisdiction_id": 21,
+    "status": "active",
+    "first_effective_date": "2016-09-01",
+    "category": "finance"
+  },
+  {
+    "regulation_id": 51,
+    "title": "Payment and Settlement Systems Act, 2007",
+    "short_name": "PSS Act 2007",
+    "jurisdiction_id": 21,
+    "status": "active",
+    "first_effective_date": "2008-08-20",
+    "category": "finance"
+  },
+  {
+    "regulation_id": 52,
+    "title": "Foreign Exchange Management Act, 1999",
+    "short_name": "FEMA 1999",
+    "jurisdiction_id": 21,
+    "status": "active",
+    "first_effective_date": "2000-06-01",
+    "category": "finance"
+  },
+  {
+    "regulation_id": 60,
+    "title": "Food Safety and Standards Act, 2006",
+    "short_name": "FSSAI Act 2006",
+    "jurisdiction_id": 24,
+    "status": "active",
+    "first_effective_date": "2011-08-05",
+    "category": "food_safety"
+  },
+  {
+    "regulation_id": 61,
+    "title": "Food Safety and Standards (Licensing and Registration) Regulations, 2011",
+    "short_name": "FSSAI License Regs 2011",
+    "jurisdiction_id": 24,
+    "status": "active",
+    "first_effective_date": "2011-08-05",
+    "category": "food_safety"
+  },
+  {
+    "regulation_id": 70,
+    "title": "Real Estate (Regulation and Development) Act, 2016",
+    "short_name": "RERA 2016",
+    "jurisdiction_id": 1,
+    "status": "active",
+    "first_effective_date": "2017-05-01",
+    "category": "real_estate"
+  },
+  {
+    "regulation_id": 80,
+    "title": "Environment Protection Act, 1986",
+    "short_name": "EPA 1986",
+    "jurisdiction_id": 1,
+    "status": "active",
+    "first_effective_date": "1986-11-19",
+    "category": "environment"
+  },
+  {
+    "regulation_id": 90,
+    "title": "Patents Act, 1970",
+    "short_name": "Patents Act 1970",
+    "jurisdiction_id": 27,
+    "status": "active",
+    "first_effective_date": "1972-04-20",
+    "category": "ip"
+  },
+  {
+    "regulation_id": 91,
+    "title": "Trademarks Act, 1999",
+    "short_name": "Trademarks Act 1999",
+    "jurisdiction_id": 27,
+    "status": "active",
+    "first_effective_date": "2003-09-15",
+    "category": "ip"
+  },
+  {
+    "regulation_id": 92,
+    "title": "Copyright Act, 1957",
+    "short_name": "Copyright Act 1957",
+    "jurisdiction_id": 27,
+    "status": "active",
+    "first_effective_date": "1958-01-21",
+    "category": "ip"
+  },
+  {
+    "regulation_id": 100,
+    "title": "Karnataka Shops and Commercial Establishments Act, 1961",
+    "short_name": "Karnataka Shops Act 1961",
+    "jurisdiction_id": 3,
+    "status": "active",
+    "first_effective_date": "1962-01-01",
+    "category": "shops_estab"
+  },
+  {
+    "regulation_id": 101,
+    "title": "Maharashtra Shops and Establishments (Regulation of Employment and Conditions of Service) Act, 2017",
+    "short_name": "Maharashtra Shops Act 2017",
+    "jurisdiction_id": 2,
+    "status": "active",
+    "first_effective_date": "2017-07-07",
+    "category": "shops_estab"
+  },
+  {
+    "regulation_id": 110,
+    "title": "Startup India Initiative (DPIIT Recognition)",
+    "short_name": "Startup India",
+    "jurisdiction_id": 27,
+    "status": "active",
+    "first_effective_date": "2016-01-16",
+    "category": "startup"
+  }
+]

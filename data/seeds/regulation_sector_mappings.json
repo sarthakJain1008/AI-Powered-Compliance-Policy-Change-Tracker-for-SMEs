@@ -1,0 +1,1312 @@
+[
+  {
+    "regulation_id": 1,
+    "sector_id": 1,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 2,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 3,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 4,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 5,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 6,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 7,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 8,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 9,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 10,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 11,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 12,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 13,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 14,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 15,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 1,
+    "sector_id": 16,
+    "note": "Applies to all registered companies"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 1,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 2,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 3,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 4,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 5,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 6,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 7,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 8,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 9,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 10,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 11,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 12,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 13,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 14,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 15,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 2,
+    "sector_id": 16,
+    "note": "Applies to LLPs"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 1,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 2,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 3,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 4,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 5,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 6,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 7,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 8,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 9,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 10,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 11,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 12,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 13,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 14,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 15,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 4,
+    "sector_id": 16,
+    "note": "MSME benefits for all sectors"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 1,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 2,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 3,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 4,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 5,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 6,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 7,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 8,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 9,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 10,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 11,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 12,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 13,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 14,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 15,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 10,
+    "sector_id": 16,
+    "note": "GST applicable to all businesses with turnover > 20L"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 1,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 2,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 3,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 4,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 5,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 6,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 7,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 8,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 9,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 10,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 11,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 12,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 13,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 14,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 15,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 11,
+    "sector_id": 16,
+    "note": "All businesses pay income tax"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 1,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 2,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 3,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 4,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 5,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 6,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 7,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 8,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 9,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 10,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 11,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 12,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 13,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 14,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 15,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 12,
+    "sector_id": 16,
+    "note": "TDS on all payments above threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 1,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 2,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 3,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 4,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 5,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 6,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 7,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 8,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 9,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 10,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 11,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 12,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 13,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 14,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 15,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 20,
+    "sector_id": 16,
+    "note": "20+ employees threshold"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 1,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 2,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 3,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 4,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 5,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 6,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 7,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 8,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 9,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 10,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 11,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 12,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 13,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 14,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 15,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 21,
+    "sector_id": 16,
+    "note": "10+ employees, wage < 21000/month"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 1,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 2,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 3,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 4,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 5,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 6,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 7,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 8,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 9,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 10,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 11,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 12,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 13,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 14,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 15,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 22,
+    "sector_id": 16,
+    "note": "All employees must receive state minimum wages"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 1,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 2,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 3,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 4,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 5,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 6,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 7,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 8,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 9,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 10,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 11,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 12,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 13,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 14,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 15,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 23,
+    "sector_id": 16,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 1,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 2,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 3,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 4,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 5,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 6,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 7,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 8,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 9,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 10,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 11,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 12,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 13,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 14,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 15,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 24,
+    "sector_id": 16,
+    "note": "20+ employees, annual bonus"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 1,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 2,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 3,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 4,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 5,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 6,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 7,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 8,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 9,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 10,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 11,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 12,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 13,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 14,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 15,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 25,
+    "sector_id": 16,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 1,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 2,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 3,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 4,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 5,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 6,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 7,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 8,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 9,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 10,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 11,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 12,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 13,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 14,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 15,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 28,
+    "sector_id": 16,
+    "note": "10+ employees"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 1,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 2,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 3,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 4,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 5,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 6,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 7,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 8,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 9,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 10,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 11,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 12,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 13,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 14,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 15,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 40,
+    "sector_id": 16,
+    "note": "Any business collecting digital personal data"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 1,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 2,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 5,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 6,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 7,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 10,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 41,
+    "sector_id": 15,
+    "note": "All digital/online businesses"
+  },
+  {
+    "regulation_id": 60,
+    "sector_id": 4,
+    "note": "All food businesses must have FSSAI license"
+  },
+  {
+    "regulation_id": 61,
+    "sector_id": 4,
+    "note": "FSSAI License Regulations"
+  },
+  {
+    "regulation_id": 50,
+    "sector_id": 2,
+    "note": "NBFCs and lending fintechs"
+  },
+  {
+    "regulation_id": 51,
+    "sector_id": 2,
+    "note": "Payment aggregators and gateways"
+  },
+  {
+    "regulation_id": 52,
+    "sector_id": 1,
+    "note": "FEMA applies to businesses with foreign transactions"
+  },
+  {
+    "regulation_id": 52,
+    "sector_id": 2,
+    "note": "FEMA applies to businesses with foreign transactions"
+  },
+  {
+    "regulation_id": 52,
+    "sector_id": 11,
+    "note": "FEMA applies to businesses with foreign transactions"
+  },
+  {
+    "regulation_id": 52,
+    "sector_id": 3,
+    "note": "FEMA applies to businesses with foreign transactions"
+  },
+  {
+    "regulation_id": 52,
+    "sector_id": 5,
+    "note": "FEMA applies to businesses with foreign transactions"
+  },
+  {
+    "regulation_id": 70,
+    "sector_id": 9,
+    "note": "Real estate developers and agents"
+  },
+  {
+    "regulation_id": 15,
+    "sector_id": 15,
+    "note": "Telecom operators and ISPs"
+  },
+  {
+    "regulation_id": 90,
+    "sector_id": 1,
+    "note": "IP-intensive sectors"
+  },
+  {
+    "regulation_id": 90,
+    "sector_id": 5,
+    "note": "IP-intensive sectors"
+  },
+  {
+    "regulation_id": 90,
+    "sector_id": 2,
+    "note": "IP-intensive sectors"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 1,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 2,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 3,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 4,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 5,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 6,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 7,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 10,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 91,
+    "sector_id": 12,
+    "note": "Trademark for branded products"
+  },
+  {
+    "regulation_id": 26,
+    "sector_id": 3,
+    "note": "Factory with 10+ workers"
+  },
+  {
+    "regulation_id": 26,
+    "sector_id": 4,
+    "note": "Food processing factories"
+  },
+  {
+    "regulation_id": 27,
+    "sector_id": 3,
+    "note": "Uses contract workers"
+  },
+  {
+    "regulation_id": 27,
+    "sector_id": 8,
+    "note": "Uses contract workers"
+  },
+  {
+    "regulation_id": 27,
+    "sector_id": 9,
+    "note": "Uses contract workers"
+  },
+  {
+    "regulation_id": 27,
+    "sector_id": 4,
+    "note": "Uses contract workers"
+  },
+  {
+    "regulation_id": 13,
+    "sector_id": 11,
+    "note": "Import/Export businesses"
+  },
+  {
+    "regulation_id": 13,
+    "sector_id": 3,
+    "note": "Manufacturing with imports"
+  }
+]

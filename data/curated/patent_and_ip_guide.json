@@ -1,0 +1,167 @@
+{
+  "ip_types": {
+    "patent": {
+      "statute": "The Patents Act, 1970 & The Patents Rules, 2003 (as amended 2024)",
+      "authority": "Controller General of Patents, Designs and Trade Marks (CGPDTM), DPIIT",
+      "portal": "ipindia.gov.in (Comprehensive e-Filing Portal)",
+      "term_of_protection": "20 years from the date of filing",
+      "startup_benefits": {
+        "fee_concession": "80% rebate on official filing, publication, and examination fees for DPIIT recognized startups and MSMEs.",
+        "expedited_examination": "Rule 24C allows Startups to file Form 18A for fast-track examination (target grant within 1 year)."
+      },
+      "statutory_forms": [
+        {
+          "form": "Form 1",
+          "name": "Application for Grant of Patent",
+          "fee_natural_startup": 1600,
+          "fee_others": 8000,
+          "description": "Basic bibliographic details of applicant and inventors."
+        },
+        {
+          "form": "Form 2",
+          "name": "Provisional or Complete Specification",
+          "fee_natural_startup": 0,
+          "fee_others": 0,
+          "description": "Title, description, abstract, and claims (for complete specification). Up to 30 pages and 10 claims."
+        },
+        {
+          "form": "Form 3",
+          "name": "Statement and Undertaking under Section 8",
+          "fee_natural_startup": 0,
+          "fee_others": 0,
+          "description": "Details of corresponding foreign applications filed."
+        },
+        {
+          "form": "Form 5",
+          "name": "Declaration as to Inventorship",
+          "fee_natural_startup": 0,
+          "fee_others": 0,
+          "description": "Submitted with complete specification identifying true inventors."
+        },
+        {
+          "form": "Form 9",
+          "name": "Request for Early Publication",
+          "fee_natural_startup": 2500,
+          "fee_others": 12500,
+          "description": "Publishes application in official gazette within 1 month instead of waiting 18 months."
+        },
+        {
+          "form": "Form 18",
+          "name": "Request for Examination",
+          "fee_natural_startup": 4000,
+          "fee_others": 20000,
+          "description": "Normal examination request (due within 31 months of priority date under 2024 rules)."
+        },
+        {
+          "form": "Form 18A",
+          "name": "Request for Expedited Examination (Startups)",
+          "fee_natural_startup": 8000,
+          "fee_others": 60000,
+          "description": "Fast-track examination for DPIIT recognized startups. Grant within 6-12 months."
+        },
+        {
+          "form": "Form 26",
+          "name": "Form of Authorization of a Patent Agent",
+          "fee_natural_startup": 0,
+          "fee_others": 0,
+          "description": "Power of attorney if filing through registered patent attorney."
+        }
+      ],
+      "statutory_milestones": [
+        {
+          "milestone": "Provisional Filing Date",
+          "day": 0,
+          "action": "File Form 1, 2 (Provisional), 3, 26."
+        },
+        {
+          "milestone": "Complete Specification Due",
+          "day": 365,
+          "action": "File Complete Specification (Form 2) within 12 months. Non-extendable!"
+        },
+        {
+          "milestone": "Publication in Journal",
+          "day": 540,
+          "action": "Standard publication at 18 months (or 1 month if Form 9 filed)."
+        },
+        {
+          "milestone": "Request for Examination Due",
+          "day": 930,
+          "action": "Must file Form 18 or 18A within 31 months from priority date."
+        },
+        {
+          "milestone": "First Examination Report (FER)",
+          "timeline": "Within 1-3 months of Form 18A",
+          "action": "Patent office issues technical objections."
+        },
+        {
+          "milestone": "FER Response Due",
+          "timeline": "Within 6 months of FER",
+          "action": "Submit arguments, claim amendments. Extendable by 3 months via Form 4."
+        },
+        {
+          "milestone": "Grant & Maintenance",
+          "action": "Patent granted. Annual renewal fees payable from 3rd year onwards."
+        }
+      ]
+    },
+    "trademark": {
+      "statute": "The Trade Marks Act, 1999 & Trade Marks Rules, 2017",
+      "authority": "Trade Marks Registry, CGPDTM",
+      "term_of_protection": "10 years (renewable indefinitely every 10 years)",
+      "startup_benefits": {
+        "fee_concession": "50% rebate on official application fee (₹4,500 e-filing fee for Startups/Individuals vs ₹9,000 for large companies)."
+      },
+      "statutory_forms": [
+        {
+          "form": "TM-A",
+          "name": "Application for Registration of Trademark",
+          "fee_startup": 4500,
+          "fee_others": 9000,
+          "description": "Filing of wordmark, device mark (logo), 3D mark across Nice Classification classes 1 to 45."
+        },
+        {
+          "form": "TM-M",
+          "name": "Application for Amendment / Extension / Certified Copy",
+          "fee_startup": 900,
+          "fee_others": 1800,
+          "description": "Used for clerical amendments, expedited processing, or extension requests."
+        },
+        {
+          "form": "TM-R",
+          "name": "Renewal of Registration",
+          "fee_startup": 9000,
+          "fee_others": 10000,
+          "description": "Payable every 10 years to maintain trademark validity."
+        }
+      ],
+      "common_classes_for_startups": [
+        {
+          "class": 9,
+          "scope": "Computer software, mobile applications, downloadable software, hardware."
+        },
+        {
+          "class": 35,
+          "scope": "Advertising, business management, e-commerce marketplace services, online retail."
+        },
+        {
+          "class": 36,
+          "scope": "Financial services, banking, payment processing, lending, fintech."
+        },
+        {
+          "class": 41,
+          "scope": "Education, training, entertainment, EdTech platforms."
+        },
+        {
+          "class": 42,
+          "scope": "Software as a Service (SaaS), IT consulting, cloud computing, technology design."
+        }
+      ]
+    },
+    "copyright": {
+      "statute": "The Copyright Act, 1957 & Copyright Rules, 2013",
+      "authority": "Copyright Office, DPIIT",
+      "term_of_protection": "Lifetime of author + 60 years",
+      "software_protection": "Computer programs/source code are protected as 'literary works' under Section 2(o). Source code and object code extracts must be deposited."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "source": "mratanusarkar/Indian-Laws",
+  "splits": {
+    "train": 34244
+  },
+  "features": "{'train': ['act_title', 'section', 'law']}"
+}

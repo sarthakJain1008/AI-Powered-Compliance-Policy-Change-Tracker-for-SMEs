@@ -1,0 +1,94 @@
+[
+  {
+    "doc_id": "18946eaf9769dd17",
+    "title": "Gazette of India — Part I: Acts of Parliament",
+    "authority": "Gazette of India",
+    "jurisdiction": "India",
+    "instrument_type": "Gazette",
+    "instrument_number": "",
+    "issued_on": "",
+    "effective_on": "",
+    "status": "in_force",
+    "parent_instrument": "",
+    "amends_or_repeals": "",
+    "full_text": "The Part I of the Gazette of India contains: Acts of Parliament",
+    "source_url": "https://egazette.gov.in/",
+    "source_hash": "18946eaf9769dd17",
+    "version": "1.0",
+    "topics": [
+      "gazette"
+    ],
+    "is_authoritative": true,
+    "crawled_at": "2026-11-17T17:36:14.161057",
+    "needs_human_review": false
+  },
+  {
+    "doc_id": "6ba94419b1096684",
+    "title": "Gazette of India — Part II: Rules and Orders made under Acts of Parliament",
+    "authority": "Gazette of India",
+    "jurisdiction": "India",
+    "instrument_type": "Gazette",
+    "instrument_number": "",
+    "issued_on": "",
+    "effective_on": "",
+    "status": "in_force",
+    "parent_instrument": "",
+    "amends_or_repeals": "",
+    "full_text": "The Part II of the Gazette of India contains: Rules and Orders made under Acts of Parliament",
+    "source_url": "https://egazette.gov.in/",
+    "source_hash": "6ba94419b1096684",
+    "version": "1.0",
+    "topics": [
+      "gazette"
+    ],
+    "is_authoritative": true,
+    "crawled_at": "2026-11-17T17:36:14.161128",
+    "needs_human_review": false
+  },
+  {
+    "doc_id": "a9dec1367988a282",
+    "title": "Gazette of India — Part III: General Statutory Rules and Notifications",
+    "authority": "Gazette of India",
+    "jurisdiction": "India",
+    "instrument_type": "Gazette",
+    "instrument_number": "",
+    "issued_on": "",
+    "effective_on": "",
+    "status": "in_force",
+    "parent_instrument": "",
+    "amends_or_repeals": "",
+    "full_text": "The Part III of the Gazette of India contains: General Statutory Rules and Notifications",
+    "source_url": "https://egazette.gov.in/",
+    "source_hash": "a9dec1367988a282",
+    "version": "1.0",
+    "topics": [
+      "gazette"
+    ],
+    "is_authoritative": true,
+    "crawled_at": "2026-11-17T17:36:14.161145",
+    "needs_human_review": false
+  },
+  {
+    "doc_id": "b2d977687825b68d",
+    "title": "Gazette of India — Part IV: Notifications in Miscellaneous matters",
+    "authority": "Gazette of India",
+    "jurisdiction": "India",
+    "instrument_type": "Gazette",
+    "instrument_number": "",
+    "issued_on": "",
+    "effective_on": "",
+    "status": "in_force",
+    "parent_instrument": "",
+    "amends_or_repeals": "",
+    "full_text": "The Part IV of the Gazette of India contains: Notifications in Miscellaneous matters",
+    "source_url": "https://egazette.gov.in/",
+    "source_hash": "b2d977687825b68d",
+    "version": "1.0",
+    "topics": [
+      "gazette"
+    ],
+    "is_authoritative": true,
+    "crawled_at": "2026-11-17T17:36:14.161167",
+    "needs_human_review": false
+  }
+]

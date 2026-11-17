@@ -1,0 +1,96 @@
+[
+  {
+    "criterion": "Employee Count",
+    "threshold": "1 Employee",
+    "regulations": [
+      "Shops and Commercial Establishments Act (State-wise)",
+      "Equal Remuneration Act, 1976",
+      "Minimum Wages Act, 1948"
+    ],
+    "obligations": "Register commercial establishment with local labour commissioner; issue appointment letters; ensure minimum wages per state notification."
+  },
+  {
+    "criterion": "Employee Count",
+    "threshold": "10 Employees",
+    "regulations": [
+      "POSH Act, 2013",
+      "Payment of Gratuity Act, 1972",
+      "Employees State Insurance Act, 1948 (in implemented areas)"
+    ],
+    "obligations": "Mandatory constitution of Internal Complaints Committee (ICC) with external NGO member; Gratuity liability accrual; ESI contribution (3.25% employer, 0.75% employee) for staff earning <= ₹21,000/mo."
+  },
+  {
+    "criterion": "Employee Count",
+    "threshold": "20 Employees",
+    "regulations": [
+      "Employees Provident Funds and Miscellaneous Provisions Act, 1952",
+      "Payment of Bonus Act, 1965"
+    ],
+    "obligations": "Mandatory EPFO registration; 12% employer + 12% employee contribution on basic+DA up to ₹15,000; Minimum 8.33% statutory annual bonus payment."
+  },
+  {
+    "criterion": "Employee Count",
+    "threshold": "50 Employees",
+    "regulations": [
+      "Maternity Benefit Act, 1961 (Creche Provision)"
+    ],
+    "obligations": "Mandatory creche facility within 500 meters of workplace with 4 visits allowed daily for nursing mothers."
+  },
+  {
+    "criterion": "Employee Count",
+    "threshold": "100 Employees",
+    "regulations": [
+      "Industrial Employment (Standing Orders) Act, 1946"
+    ],
+    "obligations": "Draft and certify formal Standing Orders defining conditions of employment, disciplinary procedures, shift timings."
+  },
+  {
+    "criterion": "Turnover",
+    "threshold": "₹20 Lakhs (Services) / ₹40 Lakhs (Goods)",
+    "regulations": [
+      "Central Goods and Services Tax Act, 2017"
+    ],
+    "obligations": "Mandatory GST Registration; monthly GSTR-1 & GSTR-3B filings; invoice generation per GST rules."
+  },
+  {
+    "criterion": "Turnover",
+    "threshold": "₹2 Crores",
+    "regulations": [
+      "CGST Act Section 44 - Annual Audit Reconciliation"
+    ],
+    "obligations": "Mandatory filing of GSTR-9 (Annual Return). (Reconciliation statement GSTR-9C if turnover exceeds ₹5 Cr)."
+  },
+  {
+    "criterion": "Turnover / Capital",
+    "threshold": "Net Worth ₹500 Cr / Turnover ₹1000 Cr / Net Profit ₹5 Cr",
+    "regulations": [
+      "Companies Act Section 135 - Corporate Social Responsibility (CSR)"
+    ],
+    "obligations": "Mandatory spend of at least 2% of average net profits of preceding 3 financial years on approved CSR activities; constitute CSR committee."
+  },
+  {
+    "criterion": "Nature of Business",
+    "threshold": "Handling Digital Personal Data",
+    "regulations": [
+      "Digital Personal Data Protection Act, 2023"
+    ],
+    "obligations": "Publish privacy notice; obtain explicit consent; implement technical and organizational security safeguards; report breach within 72 hrs; honor deletion requests."
+  },
+  {
+    "criterion": "Nature of Business",
+    "threshold": "Food Business Operator (FBO)",
+    "regulations": [
+      "Food Safety and Standards Act, 2006"
+    ],
+    "obligations": "Registration (turnover < ₹12 Lakhs) or State License (₹12 Lakhs - ₹20 Crores) or Central License (> ₹20 Crores)."
+  },
+  {
+    "criterion": "Nature of Business",
+    "threshold": "Fintech / Lending / Payment Aggregator",
+    "regulations": [
+      "RBI Payment and Settlement Systems Act, 2007",
+      "RBI Master Directions"
+    ],
+    "obligations": "RBI Certificate of Authorization as Payment Aggregator (PA); minimum net worth of ₹15 Cr at application, ₹25 Cr ongoing; board-approved risk & escrow mechanism."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "frequency": "Monthly",
+    "day": "7th",
+    "filing": "TDS Payment",
+    "authority": "CBDT / Income Tax",
+    "rule": "Deposit tax deducted at source for previous calendar month.",
+    "form": "Challan ITNS 281"
+  },
+  {
+    "frequency": "Monthly",
+    "day": "11th",
+    "filing": "GSTR-1",
+    "authority": "GSTN / CBIC",
+    "rule": "Statement of outward supplies of goods or services.",
+    "form": "GSTR-1"
+  },
+  {
+    "frequency": "Monthly",
+    "day": "15th",
+    "filing": "EPF Contribution",
+    "authority": "EPFO",
+    "rule": "Deposit 12% PF employee and employer share via ECR portal.",
+    "form": "ECR / Challan"
+  },
+  {
+    "frequency": "Monthly",
+    "day": "15th",
+    "filing": "ESIC Contribution",
+    "authority": "ESIC",
+    "rule": "Deposit 0.75% employee and 3.25% employer contribution.",
+    "form": "ESIC Online Portal"
+  },
+  {
+    "frequency": "Monthly",
+    "day": "20th",
+    "filing": "GSTR-3B",
+    "authority": "GSTN / CBIC",
+    "rule": "Monthly summary return and tax payment.",
+    "form": "GSTR-3B"
+  },
+  {
+    "frequency": "Quarterly",
+    "day": "15th Jun / 15th Sep / 15th Dec / 15th Mar",
+    "filing": "Advance Tax",
+    "authority": "CBDT",
+    "rule": "Pay 15%, 45%, 75%, 100% of estimated annual corporate income tax.",
+    "form": "Challan ITNS 280"
+  },
+  {
+    "frequency": "Quarterly",
+    "day": "31st Jul / 31st Oct / 31st Jan / 31st May",
+    "filing": "TDS Return",
+    "authority": "Income Tax",
+    "rule": "Quarterly return of tax deducted at source.",
+    "form": "Form 24Q (Salary) & 26Q (Non-Salary)"
+  },
+  {
+    "frequency": "Annual",
+    "day": "Within 180 days of FY close",
+    "filing": "Annual General Meeting (AGM)",
+    "authority": "MCA",
+    "rule": "Hold meeting of shareholders to approve balance sheet, auditor report.",
+    "form": "Minutes of AGM"
+  },
+  {
+    "frequency": "Annual",
+    "day": "Within 30 days of AGM",
+    "filing": "AOC-4 (Financial Statements)",
+    "authority": "MCA",
+    "rule": "File audited balance sheet, P&L, board report.",
+    "form": "Form AOC-4 / AOC-4 XBRL"
+  },
+  {
+    "frequency": "Annual",
+    "day": "Within 60 days of AGM",
+    "filing": "MGT-7 / MGT-7A (Annual Return)",
+    "authority": "MCA",
+    "rule": "File annual return containing shareholding and director details (MGT-7A for small company).",
+    "form": "Form MGT-7 / MGT-7A"
+  },
+  {
+    "frequency": "Annual",
+    "day": "30th September",
+    "filing": "DIR-3 KYC",
+    "authority": "MCA",
+    "rule": "Annual KYC verification for all active DIN holders.",
+    "form": "DIR-3 KYC Web"
+  },
+  {
+    "frequency": "Annual",
+    "day": "31st October",
+    "filing": "Corporate Income Tax Return",
+    "authority": "CBDT",
+    "rule": "Filing audited income tax return for corporate entities.",
+    "form": "ITR-6"
+  },
+  {
+    "frequency": "Annual",
+    "day": "31st December",
+    "filing": "GSTR-9 (Annual GST Return)",
+    "authority": "GSTN",
+    "rule": "Consolidated annual return for all monthly filings of the financial year.",
+    "form": "GSTR-9"
+  }
+]

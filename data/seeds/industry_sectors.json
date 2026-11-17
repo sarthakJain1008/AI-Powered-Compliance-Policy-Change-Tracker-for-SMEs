@@ -1,0 +1,98 @@
+[
+  {
+    "sector_id": 1,
+    "name": "IT Services",
+    "nic_code": "620",
+    "description": "Software development, IT consulting, BPO, KPO"
+  },
+  {
+    "sector_id": 2,
+    "name": "Fintech / NBFC",
+    "nic_code": "649",
+    "description": "Payment gateways, lending, insurance tech, NBFCs"
+  },
+  {
+    "sector_id": 3,
+    "name": "Manufacturing",
+    "nic_code": "10-33",
+    "description": "Factory-based production of goods"
+  },
+  {
+    "sector_id": 4,
+    "name": "Food & Beverage",
+    "nic_code": "10",
+    "description": "Food processing, restaurants, cloud kitchens, packaging"
+  },
+  {
+    "sector_id": 5,
+    "name": "Healthtech / Pharma",
+    "nic_code": "21",
+    "description": "Hospitals, clinics, pharma, medical devices, digital health"
+  },
+  {
+    "sector_id": 6,
+    "name": "E-commerce / Retail",
+    "nic_code": "47",
+    "description": "Online and offline retail, D2C brands"
+  },
+  {
+    "sector_id": 7,
+    "name": "EdTech / Education",
+    "nic_code": "85",
+    "description": "Schools, coaching, online learning platforms"
+  },
+  {
+    "sector_id": 8,
+    "name": "Logistics / Supply Chain",
+    "nic_code": "52",
+    "description": "Warehousing, freight, last-mile delivery"
+  },
+  {
+    "sector_id": 9,
+    "name": "Real Estate / Construction",
+    "nic_code": "41",
+    "description": "Builders, developers, construction contractors"
+  },
+  {
+    "sector_id": 10,
+    "name": "Media & Entertainment",
+    "nic_code": "59",
+    "description": "OTT, publishing, advertising, gaming"
+  },
+  {
+    "sector_id": 11,
+    "name": "Export / Import",
+    "nic_code": "46",
+    "description": "Trading companies with international business"
+  },
+  {
+    "sector_id": 12,
+    "name": "Hospitality / Tourism",
+    "nic_code": "55",
+    "description": "Hotels, travel agencies, tour operators"
+  },
+  {
+    "sector_id": 13,
+    "name": "Agriculture / AgriTech",
+    "nic_code": "01",
+    "description": "Farming, agri input, agri marketplace"
+  },
+  {
+    "sector_id": 14,
+    "name": "Consulting / Professional Services",
+    "nic_code": "70",
+    "description": "CA firms, law firms, management consultants"
+  },
+  {
+    "sector_id": 15,
+    "name": "Telecom",
+    "nic_code": "61",
+    "description": "Telecom operators, ISPs, VAS providers"
+  },
+  {
+    "sector_id": 16,
+    "name": "All Sectors",
+    "nic_code": "ALL",
+    "description": "Catch-all for regulations applicable to all businesses"
+  }
+]

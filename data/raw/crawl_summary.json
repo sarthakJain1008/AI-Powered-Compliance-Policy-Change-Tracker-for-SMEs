@@ -1,0 +1,48 @@
+{
+  "crawled_at": "2026-11-17T17:34:31.940513",
+  "elapsed_seconds": 160,
+  "results": {
+    "India Code": {
+      "status": "\u2705 OK",
+      "count": 0
+    },
+    "eGazette": {
+      "status": "\u2705 OK",
+      "count": 4
+    },
+    "MCA": {
+      "status": "\u2705 OK",
+      "count": 0
+    },
+    "RBI": {
+      "status": "\u2705 OK",
+      "count": 485
+    },
+    "GST/CBIC": {
+      "status": "\u2705 OK",
+      "count": 1
+    },
+    "EPFO": {
+      "status": "\u2705 OK",
+      "count": 0
+    },
+    "MeitY": {
+      "status": "\u2705 OK",
+      "count": 0
+    },
+    "SEBI": {
+      "status": "\u2705 OK",
+      "count": 0
+    }
+  },
+  "total_docs": 487,
+  "topic_breakdown": {
+    "gazette": 1,
+    "finance": 485,
+    "banking": 415,
+    "fintech": 383,
+    "tax": 1,
+    "gst": 1
+  },
+  "master_corpus": "/Users/sarthakjain/AI-Powered-Compliance-Policy-Change-Tracker-for-SMEs/data/raw/master_corpus.json"
+}

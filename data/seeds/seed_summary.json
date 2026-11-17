@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-11-17T17:32:47.416383",
+  "files": {
+    "jurisdictions.json": 28,
+    "industry_sectors.json": 16,
+    "sources.json": 20,
+    "regulations.json": 35,
+    "obligations.json": 45,
+    "regulation_sector_mappings.json": 262
+  },
+  "total_seed_rows": 406
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "source_id": 1,
+    "name": "MCA Notifications",
+    "url": "https://www.mca.gov.in/content/mca/global/en/acts-rules/ebooks/notifications.html",
+    "jurisdiction_id": 20,
+    "crawl_frequency": "daily",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 2,
+    "name": "MCA Circulars",
+    "url": "https://www.mca.gov.in/content/mca/global/en/acts-rules/ebooks/circulars.html",
+    "jurisdiction_id": 20,
+    "crawl_frequency": "daily",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 3,
+    "name": "RBI Circulars Index",
+    "url": "https://www.rbi.org.in/Scripts/BS_CircularIndexDisplay.aspx",
+    "jurisdiction_id": 21,
+    "crawl_frequency": "daily",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 4,
+    "name": "RBI Notifications",
+    "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx",
+    "jurisdiction_id": 21,
+    "crawl_frequency": "daily",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 5,
+    "name": "Gazette of India",
+    "url": "https://egazette.gov.in/",
+    "jurisdiction_id": 1,
+    "crawl_frequency": "daily",
+    "file_type": "PDF",
+    "is_active": true
+  },
+  {
+    "source_id": 6,
+    "name": "GST Council Notifications",
+    "url": "https://www.cbic-gst.gov.in/gst-goods-services-rates.html",
+    "jurisdiction_id": 28,
+    "crawl_frequency": "weekly",
+    "file_type": "PDF",
+    "is_active": true
+  },
+  {
+    "source_id": 7,
+    "name": "GST Portal News",
+    "url": "https://www.gst.gov.in/newsandupdates/",
+    "jurisdiction_id": 28,
+    "crawl_frequency": "weekly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 8,
+    "name": "EPFO Circulars",
+    "url": "https://www.epfindia.gov.in/site_en/Circulars.php",
+    "jurisdiction_id": 22,
+    "crawl_frequency": "weekly",
+    "file_type": "PDF",
+    "is_active": true
+  },
+  {
+    "source_id": 9,
+    "name": "ESIC Notifications",
+    "url": "https://www.esic.in/attachments/article",
+    "jurisdiction_id": 23,
+    "crawl_frequency": "weekly",
+    "file_type": "PDF",
+    "is_active": true
+  },
+  {
+    "source_id": 10,
+    "name": "FSSAI Legislation",
+    "url": "https://www.fssai.gov.in/home/fss-legislations/fss-regulations.html",
+    "jurisdiction_id": 24,
+    "crawl_frequency": "weekly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 11,
+    "name": "Labour Ministry Notifications",
+    "url": "https://labour.gov.in/notifications",
+    "jurisdiction_id": 30,
+    "crawl_frequency": "weekly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 12,
+    "name": "SEBI Circulars",
+    "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction?doListingAll=yes&type=1",
+    "jurisdiction_id": 25,
+    "crawl_frequency": "daily",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 13,
+    "name": "IndiaCode Central Acts",
+    "url": "https://www.indiacode.nic.in",
+    "jurisdiction_id": 1,
+    "crawl_frequency": "monthly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 14,
+    "name": "Income Tax Department",
+    "url": "https://incometaxindia.gov.in/Pages/communications/notifications.aspx",
+    "jurisdiction_id": 31,
+    "crawl_frequency": "weekly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 15,
+    "name": "TRAI Notifications",
+    "url": "https://www.trai.gov.in/notifications",
+    "jurisdiction_id": 26,
+    "crawl_frequency": "monthly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 16,
+    "name": "Karnataka Labour Dept",
+    "url": "https://labour.karnataka.gov.in",
+    "jurisdiction_id": 3,
+    "crawl_frequency": "monthly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 17,
+    "name": "Maharashtra Labour Dept",
+    "url": "https://mahakamgar.maharashtra.gov.in",
+    "jurisdiction_id": 2,
+    "crawl_frequency": "monthly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 18,
+    "name": "DPIIT Startup Notifications",
+    "url": "https://dpiit.gov.in/whats-new",
+    "jurisdiction_id": 27,
+    "crawl_frequency": "monthly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 19,
+    "name": "MeitY Notifications",
+    "url": "https://www.meity.gov.in/notifications",
+    "jurisdiction_id": 29,
+    "crawl_frequency": "monthly",
+    "file_type": "HTML",
+    "is_active": true
+  },
+  {
+    "source_id": 20,
+    "name": "CBIC Customs Notifications",
+    "url": "https://www.cbic.gov.in/htdocs-cbec/customs/cs-circulars",
+    "jurisdiction_id": 32,
+    "crawl_frequency": "weekly",
+    "file_type": "HTML",
+    "is_active": true
+  }
+]
