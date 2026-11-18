@@ -13,7 +13,7 @@ from app.api.dependencies import get_current_user
 from app.models.user import User
 
 router = APIRouter(prefix="/api/v1/demo", tags=["demo"])
-DSN = os.environ.get("DEMO_DATABASE_URL", "postgresql://postgres:postgres@localhost:5434/compliance")
+DSN = os.environ.get("DEMO_DATABASE_URL", "postgresql://localhost:5433/compliance")
 _pool: asyncpg.Pool | None = None
 _lock = asyncio.Lock()
 CurrentUser = Annotated[User, Depends(get_current_user)]

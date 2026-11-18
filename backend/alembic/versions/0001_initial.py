@@ -21,9 +21,18 @@ def _run_script(sql: str) -> None:
         conn.exec_driver_sql(sql.replace("%", "%%"))
 
 
+def _has_vector() -> bool:
+    conn = op.get_bind()
+    return conn.exec_driver_sql("SELECT count(*) FROM pg_available_extensions WHERE name='vector'").scalar() > 0
+
+
 def upgrade():
+    vector = _has_vector()
     for name in ("001_schema.sql", "002_logic.sql"):
-        _run_script((SQL / name).read_text())
+        sql = (SQL / name).read_text()
+        if not vector:   # local Postgres without pgvector: embeddings are not used until a later phase
+            sql = sql.replace("CREATE EXTENSION IF NOT EXISTS vector;", "").replace("vector(1024)", "TEXT")
+        _run_script(sql)
 
 
 def downgrade():
