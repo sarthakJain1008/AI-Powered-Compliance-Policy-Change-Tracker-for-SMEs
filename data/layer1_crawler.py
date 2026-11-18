@@ -628,7 +628,12 @@ if __name__ == "__main__":
         try:
             docs = fn()
             all_docs.extend(docs)
-            results[name] = {"status": "✅ OK", "count": len(docs)}
+            if len(docs) == 0:
+                # a source that silently returns nothing is a broken crawler, not a success
+                print(f"  ⚠️  {name} returned 0 documents — treating as FAILED")
+                results[name] = {"status": "❌ EMPTY (0 docs)", "error": "zero documents returned", "count": 0}
+            else:
+                results[name] = {"status": "✅ OK", "count": len(docs)}
         except Exception as e:
             print(f"  ❌ {name} FAILED: {e}")
             results[name] = {"status": "❌ FAILED", "error": str(e), "count": 0}
