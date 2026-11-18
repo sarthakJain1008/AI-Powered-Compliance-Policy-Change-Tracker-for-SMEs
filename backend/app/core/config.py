@@ -6,6 +6,7 @@ imports from a single, validated source of truth.
 
 from __future__ import annotations
 
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -28,6 +29,21 @@ class Settings(BaseSettings):
     # Database
     # ------------------------------------------------------------------ #
     DATABASE_URL: str = "postgresql+asyncpg://postgres:postgres@localhost:5432/compliance_tracker"
+
+    @field_validator("DATABASE_URL", mode="before")
+    @classmethod
+    def assemble_db_connection(cls, v: str) -> str:
+        """Ensure DATABASE_URL uses the async driver (postgresql+asyncpg).
+        
+        Render, Neon, and Supabase often supply 'postgres://' or 'postgresql://'.
+        We normalize it to 'postgresql+asyncpg://' automatically.
+        """
+        if isinstance(v, str):
+            if v.startswith("postgres://"):
+                return v.replace("postgres://", "postgresql+asyncpg://", 1)
+            elif v.startswith("postgresql://") and not v.startswith("postgresql+asyncpg://"):
+                return v.replace("postgresql://", "postgresql+asyncpg://", 1)
+        return v
 
     # ------------------------------------------------------------------ #
     # JWT / token settings
