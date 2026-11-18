@@ -13,7 +13,7 @@ def dsn():
     with psycopg.connect(ADMIN, autocommit=True) as c:
         c.execute(f"DROP DATABASE IF EXISTS {TEST_DB} WITH (FORCE)")
         c.execute(f"CREATE DATABASE {TEST_DB}")
-    url = f"postgresql+psycopg://postgres:postgres@{HOSTPORT}/{TEST_DB}"
+    url = f"postgresql+asyncpg://postgres:postgres@{HOSTPORT}/{TEST_DB}"
     env = {**os.environ, "DATABASE_URL": url}
     r = subprocess.run([sys.executable, "-m", "alembic", "upgrade", "head"], cwd=BACKEND, env=env,
                        capture_output=True, text=True)

@@ -1,0 +1,4 @@
+"""Alembic script template directory (kept intentionally minimal).
+
+Place custom ``script.py.mako`` overrides here if needed.
+"""

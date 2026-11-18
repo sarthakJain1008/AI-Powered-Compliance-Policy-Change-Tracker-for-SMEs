@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── CSS Variables ─────────────────────────────────────────────────────────── */
+
+:root {
+  --auth-bg: linear-gradient(135deg, #f8fafc 0%, #eff6ff 50%, #f0f9ff 100%);
+  --foreground-rgb: 15, 23, 42;
+  --background-rgb: 249, 250, 251;
+}
+
+/* ─── Base Styles ────────────────────────────────────────────────────────────── */
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    color: rgb(var(--foreground-rgb));
+    background: rgb(var(--background-rgb));
+    font-feature-settings: 'rlig' 1, 'calt' 1;
+  }
+
+  /* Smooth focus rings across the app */
+  :focus-visible {
+    outline: 2px solid #1a56db;
+    outline-offset: 2px;
+  }
+}
+
+/* ─── Component Layer ────────────────────────────────────────────────────────── */
+
+@layer components {
+  /* Auth page gradient background */
+  .auth-bg {
+    background: var(--auth-bg);
+  }
+
+  /* Animated loading skeleton */
+  .skeleton {
+    @apply animate-pulse rounded bg-slate-200;
+  }
+}
+
+/* ─── Utility Layer ──────────────────────────────────────────────────────────── */
+
+@layer utilities {
+  /* Hide scrollbar but keep functionality */
+  .scrollbar-hidden {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+}
