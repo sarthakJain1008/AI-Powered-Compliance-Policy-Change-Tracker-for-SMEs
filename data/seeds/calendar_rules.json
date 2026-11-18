@@ -1,0 +1,15 @@
+[
+ {"filing":"TDS Payment","authority":"CBDT / Income Tax","form":"Challan ITNS 281","frequency":"monthly","deadline_rule":{"type":"day_of_next_month","day":7}},
+ {"filing":"GSTR-1","authority":"GSTN / CBIC","form":"GSTR-1","frequency":"monthly","deadline_rule":{"type":"day_of_next_month","day":11}},
+ {"filing":"EPF Contribution","authority":"EPFO","form":"ECR / Challan","frequency":"monthly","deadline_rule":{"type":"day_of_next_month","day":15}},
+ {"filing":"ESIC Contribution","authority":"ESIC","form":"ESIC Online Portal","frequency":"monthly","deadline_rule":{"type":"day_of_next_month","day":15}},
+ {"filing":"GSTR-3B","authority":"GSTN / CBIC","form":"GSTR-3B","frequency":"monthly","deadline_rule":{"type":"day_of_next_month","day":20}},
+ {"filing":"Advance Tax","authority":"CBDT","form":"Challan ITNS 280","frequency":"quarterly","deadline_rule":{"type":"fixed_dates","dates":[[6,15],[9,15],[12,15],[3,15]]}},
+ {"filing":"TDS Return (24Q/26Q)","authority":"Income Tax","form":"Form 24Q / 26Q","frequency":"quarterly","deadline_rule":{"type":"fixed_dates","dates":[[7,31],[10,31],[1,31],[5,31]]}},
+ {"filing":"Annual General Meeting (AGM)","authority":"MCA","form":"Minutes of AGM","frequency":"annual","deadline_rule":{"type":"after_event","event":"fy_end","days":180}},
+ {"filing":"AOC-4 (Financial Statements)","authority":"MCA","form":"AOC-4","frequency":"annual","deadline_rule":{"type":"after_event","event":"agm","days":30}},
+ {"filing":"MGT-7 / MGT-7A (Annual Return)","authority":"MCA","form":"MGT-7 / MGT-7A","frequency":"annual","deadline_rule":{"type":"after_event","event":"agm","days":60}},
+ {"filing":"DIR-3 KYC","authority":"MCA","form":"DIR-3 KYC Web","frequency":"annual","deadline_rule":{"type":"fixed_date","month":9,"day":30}},
+ {"filing":"Corporate Income Tax Return","authority":"CBDT","form":"ITR-6","frequency":"annual","deadline_rule":{"type":"fixed_date","month":10,"day":31}},
+ {"filing":"GSTR-9 (Annual GST Return)","authority":"GSTN","form":"GSTR-9","frequency":"annual","deadline_rule":{"type":"fixed_date","month":12,"day":31}}
+]

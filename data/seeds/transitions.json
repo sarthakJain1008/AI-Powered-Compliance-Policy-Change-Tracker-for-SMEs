@@ -1,0 +1,15 @@
+{
+ "_note": "UNVERIFIED. Dates are the team's recollection and MUST be checked against official gazette notifications before approval. Loaded as review_status=needs_review so they do not affect applicability until approved.",
+ "new_regulations": [
+  {"regulation_id": 120, "title": "Income-tax Act, 2025", "short_name": "Income Tax Act 2025", "jurisdiction_id": 1, "status": "active", "category": "tax", "sector_like": 11},
+  {"regulation_id": 121, "title": "Code on Social Security, 2020", "short_name": "Social Security Code 2020", "jurisdiction_id": 1, "status": "active", "category": "labour", "sector_like": 20},
+  {"regulation_id": 122, "title": "Occupational Safety, Health and Working Conditions Code, 2020", "short_name": "OSH Code 2020", "jurisdiction_id": 1, "status": "active", "category": "labour", "sector_like": 26}
+ ],
+ "transitions": [
+  {"new": 120, "replaces": [11], "effective_from": "2026-04-01", "label": "Income-tax Act 2025 replaces Income-tax Act 1961"},
+  {"new": 29,  "replaces": [22, 24], "effective_from": "2025-11-21", "label": "Code on Wages replaces Minimum Wages Act, Payment of Bonus Act"},
+  {"new": 30,  "replaces": [], "effective_from": "2025-11-21", "label": "Industrial Relations Code in force"},
+  {"new": 121, "replaces": [20, 21, 23, 25], "effective_from": "2025-11-21", "label": "Social Security Code replaces EPF, ESI, Gratuity, Maternity Benefit Acts"},
+  {"new": 122, "replaces": [26, 27], "effective_from": "2025-11-21", "label": "OSH Code replaces Factories Act, Contract Labour Act"}
+ ]
+}
