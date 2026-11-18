@@ -106,7 +106,7 @@ async def authenticate_user(
         return None
 
     # Update last_login timestamp on successful authentication
-    user.last_login = datetime.now(timezone.utc)
+    user.last_login = datetime.now(timezone.utc).replace(tzinfo=None)  # column is TIMESTAMP WITHOUT TIME ZONE
     await db.commit()
     await db.refresh(user)
     return user

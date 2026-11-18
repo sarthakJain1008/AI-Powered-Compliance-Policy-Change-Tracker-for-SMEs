@@ -49,3 +49,4 @@ backend/.venv/
 *.swp
 *.swo
 data/raw_store/
+frontend/next-env.d.ts
