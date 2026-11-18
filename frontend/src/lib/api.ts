@@ -164,7 +164,11 @@ export const authApi = {
    * Authenticates the user and returns access + refresh tokens.
    */
   async login(email: string, password: string): Promise<Token> {
-    const response = await api.post<Token>('/auth/login', { email, password })
+    // Backend uses OAuth2PasswordRequestForm: form-encoded `username` + `password`
+    const form = new URLSearchParams({ username: email, password })
+    const response = await api.post<Token>('/auth/login', form, {
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    })
     return response.data
   },
 

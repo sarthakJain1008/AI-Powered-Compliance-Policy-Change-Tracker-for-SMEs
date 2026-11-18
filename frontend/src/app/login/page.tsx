@@ -107,8 +107,15 @@ export default function LoginPage() {
           : 'Invalid email or password. Please try again.'
 
       // Try to extract server error detail
-      const axiosErr = err as { response?: { data?: { detail?: string } } }
-      setApiError(axiosErr?.response?.data?.detail ?? message)
+      const axiosErr = err as { response?: { data?: { detail?: unknown } } }
+      const detail = axiosErr?.response?.data?.detail
+      setApiError(
+        typeof detail === 'string'
+          ? detail
+          : Array.isArray(detail)
+            ? detail.map((d: { msg?: string }) => d?.msg ?? 'Invalid input').join('. ')
+            : message
+      )
     }
   }
 
