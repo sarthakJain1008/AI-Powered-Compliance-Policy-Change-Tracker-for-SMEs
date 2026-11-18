@@ -13,6 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes.auth import router as auth_router
 from app.api.routes.onboarding import router as onboarding_router
+from app.api.routes.demo import router as demo_router
 from app.core.config import settings
 from app.db.base import Base, engine
 
@@ -77,6 +78,7 @@ async def on_startup() -> None:
 
 app.include_router(auth_router)
 app.include_router(onboarding_router)
+app.include_router(demo_router)
 
 # ---------------------------------------------------------------------------
 # Root and health-check routes

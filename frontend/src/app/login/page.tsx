@@ -93,12 +93,12 @@ export default function LoginPage() {
       try {
         const onboardingStatus = await onboardingApi.getStatus()
         if (onboardingStatus.is_onboarded) {
-          router.push('/dashboard')
+          router.push('/demo')
         } else {
-          router.push('/onboarding')
+          router.push('/demo')
         }
       } catch {
-        router.push('/onboarding')
+        router.push('/demo')
       }
     } catch (err: unknown) {
       const message =
